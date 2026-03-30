@@ -170,8 +170,7 @@ nav .dropdown-content a {
     color: #fff;
     padding: 10px 10px;
     text-decoration: none;
-    display: flex;
-    flex-direction: column;
+    display: block;
     transition: 0.3s;
 }
 
